@@ -1,0 +1,6 @@
+{
+  "name": "XRTrainingCore",
+  "rootNamespace": "XRTrainingCore",
+  "references": [ "Unity.InputSystem" ],
+  "autoReferenced": true
+}
